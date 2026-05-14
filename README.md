@@ -189,4 +189,4 @@ Built as a companion to the [MCP CRM Agent](https://github.com/skotichukkala/sal
 ## Author
 
 **Srivalli Kotichukkala**
-[LinkedIn](https://linkedin.com/in/srivalli-k) | [GitHub](https://github.com/skotichukkala)
+
